@@ -25,12 +25,6 @@ html {
   scroll-margin-top: 2rem;
 }
 
-/* Logo */
-.logo{
-  width: 100px;
-  height: 100px;
-}
-
 /* Header */
 .site-title {
   font-size: 1.5rem;
